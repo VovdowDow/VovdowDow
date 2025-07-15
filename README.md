@@ -6,7 +6,7 @@
 
 ---
 
-## 🎀 Tech Stack
+## 🖥️ Tech Stack
 
 <p align="center">
   <!-- flat-square static/v1 with empty label so no "static" text -->
