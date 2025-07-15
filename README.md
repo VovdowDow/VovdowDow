@@ -1,6 +1,6 @@
 
 
-## 🌸 About Me
+## 💜⭐ About Me
 🏡 Location: Nonthaburi, Thailand  
 🎓 Studying Computer Science at KU KPS  
 
