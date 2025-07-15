@@ -33,23 +33,34 @@
 ## 📬 Contact Me
 
 <p align="center">
-  <!-- Static Badges (flat-square, no logos) -->
   <a href="mailto:your.email@example.com">
     <img
-      src="https://img.shields.io/static/v1?label=&message=Email&color=FFB6C1&style=flat-square"
+      src="https://img.shields.io/static/v1?label=&message=Email&style=flat-square&color=FFC0CB"
       alt="Email"
     />
   </a>
   <a href="https://www.linkedin.com/in/YourLinkedIn">
     <img
-      src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=CBD6E2&style=flat-square"
+      src="https://img.shields.io/static/v1?label=&message=LinkedIn&style=flat-square&color=E0BBE4"
       alt="LinkedIn"
     />
   </a>
   <a href="https://twitter.com/YourTwitter">
     <img
-      src="https://img.shields.io/static/v1?label=&message=Twitter&color=A2D5F2&style=flat-square"
+      src="https://img.shields.io/static/v1?label=&message=Twitter&style=flat-square&color=B0E0E6"
       alt="Twitter"
+    />
+  </a>
+  <a href="https://instagram.com/YourInstagram">
+    <img
+      src="https://img.shields.io/static/v1?label=&message=Instagram&style=flat-square&color=FFDAB9"
+      alt="Instagram"
+    />
+  </a>
+  <a href="https://discord.com/users/YourDiscordID">
+    <img
+      src="https://img.shields.io/static/v1?label=&message=Discord&style=flat-square&color=D1F2EB"
+      alt="Discord"
     />
   </a>
 </p>
