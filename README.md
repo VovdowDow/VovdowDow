@@ -22,10 +22,7 @@
     src="https://img.shields.io/static/v1?label=&message=Python&color=FFE4E1&style=flat-square&logo=python&logoColor=white"
     alt="Python"
   />
-  <img
-    src="https://img.shields.io/static/v1?label=&message=TensorFlow&color=FFDAB9&style=flat-square&logo=tensorflow&logoColor=white"
-    alt="TensorFlow"
-  />
+  
 </p>
 
 ---
